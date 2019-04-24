@@ -1,4 +1,4 @@
-# vue-cli3.0-mulitpage
+# vue-cli3.0-mulitpage,根据官方cli3脚手架,修改为多入口开发
 
 ## Project setup
 ```
@@ -25,5 +25,3 @@ yarn run test
 yarn run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
