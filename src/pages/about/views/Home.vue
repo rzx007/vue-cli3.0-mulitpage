@@ -5,8 +5,10 @@
 </template>
 
 <script>
-
 export default {
-  name: 'home',
-}
+  name: "home",
+  data() {},
+  methods: {},
+  mounted() {}
+};
 </script>
